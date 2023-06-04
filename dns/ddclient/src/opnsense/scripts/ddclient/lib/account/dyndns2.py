@@ -36,6 +36,7 @@ class DynDNS2(BaseAccount):
         'dyndns2': 'members.dyndns.org',
         'dns-o-matic': 'updates.dnsomatic.com',
         'dynu': 'api.dynu.com',
+        'googledomains': 'domains.google.com',
         'he-net': 'dyn.dns.he.net',
         'he-net-tunnel': 'ipv4.tunnelbroker.net',
         'inwx': 'dyndns.inwx.com',
